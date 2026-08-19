@@ -2794,8 +2794,8 @@ video {
 }
 
 .nav-logo {
-    width: 32px;
-    height: 32px;
+    width: 48px;
+    height: 48px;
     object-fit: contain;
     border-radius: 6px;
     flex-shrink: 0;
